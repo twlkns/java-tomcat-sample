@@ -5,6 +5,7 @@
   <h3> Good luck to everbody.... </h3>
   <h3> You are doing good work .... </h3>
   <h3> Edited.  Testing jenkins.</h3>
-  <h3> Created jenkins pipeline using jenkinsfile2.</h3>
+  <h3> Created jenkins pipeline using Jenkinsfile2.</h3>
+  <h3> last update to index.jsp to test jenkins pipeline and Jenkinsfile2
 </body>
 </html>
